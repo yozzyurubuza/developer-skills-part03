@@ -9,19 +9,6 @@ const calcAge = birthYear => 2037 - birthYear;
 console.log(calcAge(1995));
 */
 
-//Lecture how to think like a developer
-
-/*
-1. Make sure you 100% understand the problem - ask the right questions.
-
-2. Divide and conquer: Break a big problem into smaller sub-problems.
-
-3. Don't be afraid to do as much research as you have to.
-
-4. Write pseudo-code before writing the actual code (not computer code)
-
-*/
-
 //PROBLEM:
 
 //We work for a company building a smart home thermometer. Our most recent task is this: "Given an array of temperatures of one day, calculate the temperature amplitude. Keep in mind that sometimes there might be a sensor error."
