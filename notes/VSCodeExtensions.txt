@@ -1,0 +1,13 @@
+Here are the list of Essential VSCode Extensions:
+
+1. Live Server - automatically refreshes html file without having to click F5 upon editing files inside the project.
+
+2. Prettier - Code formatter that automatically arranges and fixes the code for you upon saving the file.
+
+3. Eslint - Code reader that checks if your code is following the good standard in the programming world. It shows notification in case that you have an unused variable and other cases that does not follow the standard.
+
+4. Settings Sync - Your extensions and VSCode settings can now be saved in your github, then upon changing your work environment, you just need to login to use the same settings from your other work environment or PC.
+
+5. Auto Close Tag - An extension that puts an closing tag automatically to html tags.
+
+6. Auto Rename Tag - An extension that automatically fixes incorrect spelling in html tags.
