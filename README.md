@@ -1,38 +1,24 @@
-# JavaScript Fundamentals - Part 02
+# Developer Skills - Part 03
 
 These are the topics of the code included in this repository.
 
 ## Repository Coverage:
 
-### `01 - Functions`
+## Sample Problems
 
-### `02 - Function Declaration vs Function Expression`
+### `01 - Temperature Amplitude`
 
-### `03 - Arrow Function`
+### `02 - Temperature Amplitude Part 02`
 
-### `04 - Functions Calling other Functions`
+### `03 - Temperature Measurement`
 
-### `05 - Reviewing Functions`
+### `04 - Print Forecast Temperature`
 
-### `06 - Introduction to Arrays`
+## Notes:
 
-### `07 - Basic Array Operations`
+### `How to Think Like a Developer`
 
-### `08 - Introduction to Objects`
-
-### `09 - Dot Notation vs Bracket Notation`
-
-### `10 - Object Methods`
-
-### `11 - Iteration: The For Loop`
-
-### `12 - Looping Arrays, Breaking, and Continuing`
-
-### `13 - Looping Backwards and Loops in Loops`
-
-### `14 - The While loop`
-
-### `15 - Reviewing Functions - Part 2`
+### `Essential VSCode Extensions`
 
 ## How to use:
 
